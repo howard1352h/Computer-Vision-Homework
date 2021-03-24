@@ -8,6 +8,6 @@
 
 ### HW1
 LeNet-5訓練50 epochs  
-<img src='./HW1/train_fifty_epochs.png'>
-LeNet-5預測結果
-<img src='./HW1/prediction.png'>
+<img src='./HW1/train_fifty_epochs.png' width=400>  
+LeNet-5預測結果  
+<img src='./HW1/prediction.png' width=400>  
